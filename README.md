@@ -27,6 +27,12 @@ This is an approximate amount of (18%) retirement-ready employees. Senior Engine
 
 -- IMAGE HERE
 
+Open the file containing the DataFrame_Summary.
+
+![DataFrame_Summary](/PyBer_Analysis/analysis/DataFrame_Summary.png)
+
+Close the file.
+
 Are There Enough Qualified, Retirement-Ready Employees in the Departments to Mentor the Next Generation of Pewlett Hackard Employees?
 
 There are not enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees. The data provides a total amount
