@@ -34,7 +34,7 @@ Close the file.
 Are There Enough Qualified, Retirement-Ready Employees in the Departments to Mentor the Next Generation of Pewlett Hackard Employees?
 
 There are not enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees. The data provides a total amount
-of 90,398/499,999 retirement-ready employees in the department to mentor. Additionally, the mentorship_eligibility table images shown below provides data of 1,548/499,999 retirement ready employees in the departments to mentor non-retired employees. 
+of 90,398/499,999 retirement-ready employees in the department to mentor. Additionally, the mentorship_eligibility table images shown below provides data of 1,549/499,999 retirement ready employees in the departments to mentor non-retired employees. 
 
 Open the file containing the mentorship_eligibility.
 
@@ -49,6 +49,4 @@ Open the file containing the mentorship_eligibility_end.
 Close the file.
 
 
-Unfortunately, there is missing data of the retirement date for retirement-ready employees. Missing data of the retirement date alters analysts providing enough information to present if there are enough retirement-ready employees in the department to mentor. 
-
-If the departments need next-generation non-retiring employees to be prepared to take on these future roles. Then, departments can provide a retirement date table to calculate a proper timeline to get all non-retired employees prepared for these future roles in a timely manner.
+Unfortunately, there is missing data of the retirement date for retirement-ready employees. If the departments need next-generation non-retiring employees to be prepared to take on these future roles. Then, departments can provide a retirement date table to calculate a proper timeline to get all non-retired employees prepared for these future roles in a timely manner.
