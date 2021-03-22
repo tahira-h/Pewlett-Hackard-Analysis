@@ -27,11 +27,14 @@ This is an approximate amount of (18%) retirement-ready employees. Senior Engine
 
 -- IMAGE HERE
 
-Open the file containing the DataFrame_Summary.
+Open the file containing the retirement_titles.
 
-![DataFrame_Summary](/PyBer_Analysis/analysis/DataFrame_Summary.png)
+![retirement_titles](/Pewlett-Hackard-Analysis/Pewlett-Hackard-Analysis/Analysis Projects Folder/Pewlett-Hackard-Analysis Folder/Data/retirement_titles.csv
+)
 
 Close the file.
+
+Pewlett-Hackard-Analysis/Pewlett-Hackard-Analysis/Analysis Projects Folder/Pewlett-Hackard-Analysis Folder/Data/retirement_titles.csv
 
 Are There Enough Qualified, Retirement-Ready Employees in the Departments to Mentor the Next Generation of Pewlett Hackard Employees?
 
@@ -39,6 +42,13 @@ There are not enough qualified, retirement-ready employees in the departments to
 of 90,398/499,999 retirement-ready employees in the department to mentor. Additionally, the mentorship_eligibility table shown below provides data showing that there are 1,548/499,999 retirement ready employees in the departments to mentor non-retired employees. 
 
 -- IMAGE HERE
+
+
+Open the file containing the DataFrame_Summary.
+
+![DataFrame_Summary](/PyBer_Analysis/analysis/DataFrame_Summary.png)
+
+Close the file.
 
 Unfortunately, there is missing data of the retirement date for retirement-ready employees. Missing data of the retirement date alters analysts providing enough information to present if there are enough retirement-ready employees in the department to mentor. 
 
