@@ -43,9 +43,9 @@ of 90,398/499,999 retirement-ready employees in the department to mentor. Additi
 -- IMAGE HERE
 
 
-Open the file containing the DataFrame_Summary.
+Open the file containing the mentorship_eligibility.
 
-![DataFrame_Summary](/PyBer_Analysis/analysis/DataFrame_Summary.png)
+![mentorship_eligibility](/Pewlett-Hackard-Analysis/png/mentorship_eligibility.png)
 
 Close the file.
 
