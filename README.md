@@ -27,9 +27,9 @@ This is an approximate amount of (18%) retirement-ready employees. Senior Engine
 
 -- IMAGE HERE
 
-Open the file containing the retirement_titles.
+Open the file containing the retiring_titles.
 
-![retirement_titles](/Pewlett-Hackard-Analysis/Analysis Projects Folder/Pewlett-Hackard-Analysis Folder/Data/retirement_titles.csv)
+![retiring_titles](/Pewlett-Hackard-Analysis/png/retiring_titles.png)
 
 Close the file.
 
